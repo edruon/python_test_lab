@@ -11,5 +11,4 @@ while True:
     if abs(drawing.pos()) < 1:
         break
 drawing.end_fill()
-#turtle.exitonclick()
 turtle.done()
